@@ -15,7 +15,5 @@ if len(b) <= i:
     print(b)
 if len(c) <= i:
     print(c)
-if len(c) <= i:
-    print(c)
 if len(d) <= i:
     print(d)
